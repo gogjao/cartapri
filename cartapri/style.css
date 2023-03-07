@@ -25,6 +25,7 @@ main {
     padding: 20px; /* espaçamento interno do elemento main */
 	margin: 10px;
 	text-align: center;
+	 line-height: 1.5;
 	
 }
 
