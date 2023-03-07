@@ -1,22 +1,22 @@
 body {
 	background-color: #e2bdc1;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
-	margin: 20px;
-	 line-height: 1.5;
+	margin: 10px;
+	 line-height: 3px;
 	padding: 10px;
 }
 
 header {
 	background-color: #dc3545;
 	color: #eed0d0;
-	padding: 20px;
+	padding: 10px;
 	text-align: center;
-	 line-height: 1.5;
+	 line-height: 3px;
 }
 
 h1 {
-	font-size: 36px;
-	margin: 20px;
+	font-size: 10px;
+	margin: 10px;
 }
 
 main {
@@ -24,10 +24,10 @@ main {
     background-position: center;
 	background-repeat: no-repeat; /* desativa a repetição da imagem de fundo */
     background-size: 47% auto; /* ajusta o tamanho da imagem de fundo para a largura do elemento main */
-    padding: 20px; /* espaçamento interno do elemento main */
+    padding: 10px; /* espaçamento interno do elemento main */
 	margin: 10px;
 	text-align: center;
-	 line-height: 1.5;
+	 line-height: 3px;
 	
 }
 
