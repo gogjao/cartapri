@@ -2,6 +2,7 @@ body {
 	background-color: #e2bdc1;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
 	margin: 20px;
+	 line-height: 1.5;
 	padding: 10px;
 }
 
@@ -10,6 +11,7 @@ header {
 	color: #eed0d0;
 	padding: 20px;
 	text-align: center;
+	 line-height: 1.5;
 }
 
 h1 {
