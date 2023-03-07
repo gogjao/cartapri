@@ -1,7 +1,7 @@
 body {
 	background-color: #e2bdc1;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
-	margin: 10px;
+	margin: 20px;
 	padding: 10px;
 }
 
@@ -14,7 +14,7 @@ header {
 
 h1 {
 	font-size: 36px;
-	margin: 10px;
+	margin: 20px;
 }
 
 main {
